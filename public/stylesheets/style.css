@@ -1,0 +1,49 @@
+header .user{
+    float: right;
+}
+
+.card-img-top{
+    max-width: 300px;
+    max-height: 250px;
+
+
+}
+
+.card-text{
+    color: #2F4F4F;
+}
+
+
+
+.card{
+    height: 450px;
+    margin-top: 50px;
+    margin-right:50px;
+    margin-left: 20px;
+    margin-bottom:50px;
+}
+
+.price{
+    font-weight: bold;
+
+}
+
+.margin-top-10{
+    margin-top: 7px;
+}
+
+.margin-left-110{
+    margin-left: 110px;
+}
+
+.text-centre-align{
+    text-align: center;
+}
+
+.padding-10{
+    padding: 10px 10px 10px 10px;
+}
+
+.margin-left-10{
+    margin: -10px -10px -10px -10px;
+}
